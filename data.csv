@@ -1,0 +1,13 @@
+text,sentiment
+I love this product,1
+This is amazing,1
+I really like it,1
+Excellent quality,1
+Very happy with this,1
+I hate this,-1
+Worst experience ever,-1
+Very bad product,-1
+Not good at all,-1
+It's okay,0
+Average product,0
+Not bad,0
