@@ -8,3 +8,4 @@ I will work on a project that can detect when the user give the input like a sen
 
 Set up Sentiment Analysis project on GitHub with a proper readme.
 I started working on this.
+The app
