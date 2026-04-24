@@ -28,6 +28,7 @@ It is built using Python and deployed with a Streamlit UI so users can easily in
 - Python
 - Scikit-learn 
 - Streamlit
+- flask
 
 ---
 
