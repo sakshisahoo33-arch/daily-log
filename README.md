@@ -1,12 +1,3 @@
-# daily-log
-My daily updates
-
-#Sentiment Analysis Project 
-I will work on a project that can detect when the user give the input like a sentence , text , message anything that will say or detect whether the sentence is positive, negative or neutral.
-
-Set up Sentiment Analysis project on GitHub with a proper readme.
-
-The Web app
 # Sentiment Analysis Web App
 
 ## 📌 Overview
