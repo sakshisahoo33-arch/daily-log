@@ -31,6 +31,13 @@ It is built using Python and deployed with a Streamlit UI so users can easily in
 
 ---
 
+## steps 
+1. Give the input data
+2. Then it will process the data
+3. Make it output ready
+
+---
+
 ## ▶️ How to Run
 1. Clone the repository:
 ```bash
