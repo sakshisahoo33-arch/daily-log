@@ -1,14 +1,15 @@
 import streamlit as st
 import pickle
 
-# Load model and vectorizer
+#load pickel
+
 model = pickle.load(open("model.pkl", "rb"))
 vectorizer = pickle.load(open("vectorizer.pkl", "rb"))
 
 # Page config
 st.set_page_config(page_title="Sentiment Analyzer", layout="centered")
 
-# 🎨 Lavender Theme (No Box)
+#laveder color box
 st.markdown("""
 <style>
 [data-testid="stAppViewContainer"] {
