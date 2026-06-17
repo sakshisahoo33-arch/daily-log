@@ -38,6 +38,10 @@ It is built using Python and deployed with a Streamlit UI so users can easily in
 
 ---
 
+##future enchanments
+1.Can add other apps or pages reviews to see the reactions.
+2.Can add gen ai to say whether to get the product or not
+
 ## ▶️ How to Run
 1. Clone the repository:
 ```bash
