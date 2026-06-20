@@ -1,7 +1,7 @@
 # Sentiment Analysis Web App
 
 ## 📌 Overview
-This project is a simple Sentiment Analysis application that predicts whether a given text is Positive, Negative, or Neutral.
+This project is a simple Sentiment Analysis application that predicts whether a given text is Positive, Negative, or Neutral with given reviews.
 
 It is built using Python and deployed with a Streamlit UI so users can easily interact with the model.
 
