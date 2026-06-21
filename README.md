@@ -33,8 +33,9 @@ It is built using Python and deployed with a Streamlit UI so users can easily in
 
 ## steps 
 1. Give the input data
-2. Then it will process the data
+2. Then it will process the data through nlp and gen ai
 3. Make it output ready
+4. Give the answer of review and give with output of gen ai to buy or not
 
 ---
 
