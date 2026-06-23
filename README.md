@@ -27,7 +27,8 @@ It is built using Python and deployed with a Streamlit UI so users can easily in
 1. Data Collection & Cleaning  
 2. Feature Engineering  
 3. Model Training & Evaluation  
-4. UI Integration using Streamlit  
+4. UI Integration using Streamlit
+5. Deploymenr
 
 ---
 
