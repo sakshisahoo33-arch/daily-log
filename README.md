@@ -1,6 +1,6 @@
 # Sentiment Analysis Web App
 
-## 📌 Overview
+##  Overview
 This project is a simple Sentiment Analysis application that predicts whether a given text is Positive, Negative, or Neutral with given reviews.
 
 It is built using Python and deployed with a Streamlit UI so users can easily interact with the model.
@@ -20,6 +20,7 @@ It is built using Python and deployed with a Streamlit UI so users can easily in
 - Scikit-learn 
 - Streamlit
 - flask
+- TFIdk
 
 ---
 
@@ -28,7 +29,7 @@ It is built using Python and deployed with a Streamlit UI so users can easily in
 2. Feature Engineering  
 3. Model Training & Evaluation  
 4. UI Integration using Streamlit
-5. Deploymenr
+5. Deployment
 
 ---
 
