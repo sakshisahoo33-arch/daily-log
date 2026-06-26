@@ -12,6 +12,7 @@ It is built using Python and deployed with a Streamlit UI so users can easily in
 - Analyzes sentiment (Positive / Negative / Neutral)
 - Displays prediction with confidence score
 - Simple and interactive UI using Streamlit
+- Flask
 
 ---
 
